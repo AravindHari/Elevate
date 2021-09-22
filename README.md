@@ -13,7 +13,7 @@ ELEVATE is your one-stop location which is an AI-based depression detection syst
   - Effective Emotion detection
   - Reports submitted to expert psychologists/psychiatrists
 
-## How we built it
+## How I built it
 
 ELEVATE was created using the following open source projects:
 
